@@ -1,6 +1,6 @@
 # Easy Diet Backend
 
-Este é o backend do projeto Easy Diet, uma aplicação web que ajuda os usuários a gerar planos de refeições personalizados com base em suas preferências alimentares, metas calóricas e intolerâncias alimentares. O backend utiliza a API Spoonacular para fornecer os dados dos planos de refeições.
+This is the backend of the Easy Diet project, a web application that helps users generate personalized meal plans based on their dietary preferences, calorie goals, and food intolerances. The backend uses the Spoonacular API to provide meal plan data.
 
 ## Frontend
-- Neste [link](https://github.com/isabelalimadacunha/easydiet-front) você pode acessar o frontend do projeto
+You can access the frontend of the project here: [Easy Diet Frontend](https://example.com)
